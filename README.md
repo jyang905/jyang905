@@ -4,7 +4,6 @@
 * Shakepay
 
 * 2015 
-
 * Jean Amiouny, Roy Breidi
 
 * Jean Amiouny was at this student bar in Montreal in 2014. He was talking to the waitress and talked to her about how he had some bitcoins, but wanted
@@ -16,38 +15,51 @@ Shakepay has received a total of $36M in funding over 5 rounds.
 
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
+* Shakepay allows Canadians to buy or sell Bitcoins and Ethereum throught an app, which then they can send it to their friends and families. 
+It also allows them to build their own wealth from buying and storing Bitcoins and Ethereum. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* The company's intended customer is any Canadians who are the age of 18 and older. The company reached 900,000 customers in 2021.
+The company reached roughly about 2% of the population in November and a recent survey showed that 62% of Canadians want to get paid in crypto by 2027. 
+This means that the market size of customers is 22 million people, which is roughly 24 times of their current number of customers. 
+Shakepay is one of the first Cryptocurrency companies that was founded in Canada that is still operating, which gives them a great reputation and trusts from users. 
+Shakepay also encourage users to log in and physically shake their cell phones, in order to receive small amount of rewards in Bitcoins every day. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Shakepay launched a P2P payment system that allows Shakepay users to instantly exchange CAD, BTC, and ETH without any fees in October 2020. This would give the users "self-soverign" control over their wealth, as
+they can do not require a "middle-man" to do so. 
+HTML5, Google Analytics, and Google Fonts
+Domain Not Resolving, Global Site Tag, and Mobile Non Scaleable Content
+vue.js, animate.css, Bulma, Couldflare, Segment (as an utility), Intercom (Business tools) 
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* Blockchain and Cryptocurrencies.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* Global adoption of blockchain and Cryptocurrencies across multiple different insitutions including different countries. 
+Non-fungible tokens are digital collectibles that give ownership rights to asset holders directly. 
+De-centralized finance uses blockchain to ensure safety and transparency of funds.
 
-* What are the other major companies in this domain?
-
+* Coinbase, Binance, FTX, Crypto.com, Blockfi, BitBuy, Newton Crypto. 
 
 ## Results
 
-* What has been the business impact of this company so far?
+* It allows many Canadians to buy and sell Bitcoin and Ethereum through an app. They can then send them to their families and friends at any time without having to rely on 3rd party companies like banks or PayPal. 
+They can also send and store in their own cold wallet, in order to preserve their wealth.  
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* number of users (growth), Total volume of transactions ($). 
+In 2021, Shakepay grew the number of users to more than 900,000 customers which is about 381% increase from the previous year.
+It also did $6 billion in total volume of transactions.  
 
-* How is your company performing relative to competitors in the same domain?
+* BitBuy from Vancouver, BC, has about 389,000 registered users and $4.6 billion transactions.
+Shakepay is doing better in terms of the number of users and total transaction volume. 
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* Staking, which allows users to earn rewards or interests by holding certain cryptocurrencies. 
 
-* Why do you think that offering this product or service would benefit the company?
+* This will draw many new users, as they can passively earn income (or interests) just by leaving certain cryptocurrencies on the platform. 
 
-* What technologies would this additional product or service utilize?
+* Staking pool (just like interest-bearing savings account) 
 
-* Why are these technologies appropriate for your solution?
+* “consensus mechanism” also known as Proof of Stake; this ensures all transactions are verified and secured without other 3rd parties like a bank or payment processor in the middle.

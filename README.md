@@ -1,4 +1,4 @@
-# TITLE
+# FinTech Case Study - Justin Yang
 
 ## Overview and Origin
 * Shakepay
@@ -63,3 +63,15 @@ Shakepay is doing better in terms of the number of users and total transaction v
 * Staking pool (just like interest-bearing savings account) 
 
 * “consensus mechanism” also known as Proof of Stake; this ensures all transactions are verified and secured without other 3rd parties like a bank or payment processor in the middle.
+
+## References
+https://www.crunchbase.com/organization/shakepay
+https://www.youtube.com/watch?v=opFh1fP_Hz8
+https://legal.shakepay.com/rewards
+https://cointelegraph.com/news/canadian-bitcoin-platform-shakepay-raises-35m-in-series-a-funding
+https://stackshare.io/shakepay/shakepay
+https://techdaily.ca/shakepay-review#:~:text=As%20of%20April%202021%2C%20Shakepay,that%20targets%20novice%20cryptocurrency%20investors.
+https://money.com/best-crypto-exchanges/
+https://ca.style.yahoo.com/bitbuy-achieves-increased-volume-users-140000481.html#:~:text=Bitbuy%20was%20founded%20in%202016,billion%20transacted%20through%20the%20platform.
+https://www.coinbase.com/learn/crypto-basics/what-is-staking
+https://hackernoon.com/how-to-measure-blockchain-network-performance-key-metrics-en1234u4
